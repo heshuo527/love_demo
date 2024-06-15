@@ -1,3 +1,3 @@
 # 取悦女朋友的demo
 
-https://shibobo.github.io/happybirthday/
+https://heshuo527.github.io/love_demo/
